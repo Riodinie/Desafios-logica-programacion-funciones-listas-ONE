@@ -264,7 +264,7 @@ let lista1 = [1, 2, 3, 4, 5];
 let lista2 = [10, 20, 30, 40, 50];
 
 let resultado = sumarListas(lista1, lista2);
-console.log(`La lista resultante es: ${resultado}`); // Debería imprimir [11, 22, 33, 44, 55]
+console.log(`La lista resultante es: ${resultado}`);
 ```
 11. Crea una función que reciba una lista de números y devuelva una nueva lista con el cuadrado de cada número.
 ```javascript
