@@ -125,7 +125,7 @@ function calcularAreaYPerimetroCircular(radio) {
   console.log(`El perímetro de la sala circular es: ${perimetro}.`);
 }
 
-let radio = 5; // Radio de la sala circular
+let radio = 5; 
 calcularAreaYPerimetroCircular(radio);
 ```
 6. Crea una función que muestre en pantalla la tabla de multiplicar de un número dado como parámetro.
